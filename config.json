@@ -1,0 +1,7 @@
+{
+	"Server": {
+		"Address": ":4143",
+		"ReadTimeoutSecs": 10,
+		"WriteTimeoutSecs": 10
+	}
+}
